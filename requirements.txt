@@ -1,4 +1,6 @@
 streamlit
 pandas
 plotly
-openpyxl
+streamlit-extras
+
+#streamlit run app.py
